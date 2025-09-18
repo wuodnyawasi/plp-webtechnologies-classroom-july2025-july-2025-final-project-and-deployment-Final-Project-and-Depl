@@ -68,5 +68,6 @@ If you have questions, suggestions, or would like to contribute, feel free to ge
 - Add filtering and search functionality to the gallery.
 
 ---
+## To access the site, visit https://plp-webtechnologies-classroom-july2-ten-bay.vercel.app/
 
 Thanks for checking out **Unclatter**! 🌱 Let's make decluttering easy and meaningful.
